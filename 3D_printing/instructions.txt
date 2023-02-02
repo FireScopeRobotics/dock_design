@@ -1,0 +1,10 @@
+Special instructions
+connector.STL print the current version and a left - right mirrored version
+stick_motor_connector: print at 50% infil, hexagon pattern, 2mm walls
+robot_dock_pilot: print 2 copies
+back_connector: print 2 copies
+
+
+
+==================
+all parts except for stick_motor_connector: print with 30% infil, 1.5mm walls, any pattern
